@@ -50,10 +50,13 @@ Osoba chcąca zakupić produkt na aukcji.
 
 [Sprzedający](#ac1):
 * [UC1](#uc1): Wystawienie produktu na aukcję
-* ...
+* [UC1](#uc1): Podanie danych o produkcie oraz ceny wywoławczej
+* 
 
-[Kupujący](#ac2)
-* ...
+[Kupujący](#ac2):
+* 
+*
+*
 
 ---
 <a id="uc1"></a>
