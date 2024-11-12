@@ -113,8 +113,8 @@ Osoba chcąca zakupić produkt na aukcji.
 
 **Scenariusze alternatywne:** 
 
-1.A. 
-* 1.A.1. System informuje że nie było żadnej oferty o o kupowaniu towaru.
+1.A. Nie wpłynęła żadna oferta w trakcie trwania aukcji.
+* 1.A.1. System informuje że nie było żadnej oferty o kupowaniu towaru.
 * 1.A.2. System zamyka aukcję.
 
 ---
