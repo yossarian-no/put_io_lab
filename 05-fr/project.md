@@ -75,7 +75,7 @@ Osoba chcąca zakupić produkt na aukcji.
 
 4.A. Podano niepoprawne lub niekompletne dane produktu.
 * 4.A.1. System informuje o błędnie podanych danych.
-* 4.A.2. Przejdź do kroku 2.
+* 4.A.2. Powrót do kroku 2.
 
 ---
 
@@ -95,7 +95,7 @@ Osoba chcąca zakupić produkt na aukcji.
 
 4.A. Podane błędne dane lub niespełniające wymagania.
 * 4.A.1. System informuje o błędzie.
-* 4.A.2. Wrócimy do kroku 2.
+* 4.A.2. Powrót do kroku 2.
 
 ---
 
